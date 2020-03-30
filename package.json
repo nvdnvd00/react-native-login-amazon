@@ -1,7 +1,7 @@
 {
   "name": "react-native-login-amz",
   "title": "React Native Login Amz",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "TODO",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-login-amz.git",
-    "baseUrl": "https://github.com/github_account/react-native-login-amz"
+    "url": "git+https://github.com/nvdnvd00/react-native-login-amazon.git",
+    "baseUrl": "https://github.com/nvdnvd00/react-native-login-amazon"
   },
   "keywords": [
     "react-native"
