@@ -12,7 +12,7 @@ or
 
 (RN <0.59)`$ react-native link react-native-login-amz`
 
-Create `api_key.txt` in `android/app/src/main/assets` and paste you Amazon api key here.
+Create `api_key.txt` in `android/app/src/main/assets` and put you Amazon api key here.
 
 ## Usage
 
