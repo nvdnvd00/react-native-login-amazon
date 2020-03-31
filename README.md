@@ -17,7 +17,7 @@ or
 
 #### IOS
 
-- Add your api key to `Info.plist` ([Instruction])(https://developer.amazon.com/docs/login-with-amazon/create-ios-project.html#add-api-key).
+- Add your api key to `Info.plist` ([Instruction](https://developer.amazon.com/docs/login-with-amazon/create-ios-project.html#add-api-key)).
 
 #### Android
 
